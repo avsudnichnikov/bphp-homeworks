@@ -154,5 +154,6 @@ $image = 'img/1.jpg';
 
 ### 9. Внесение изменений
 1. Перед внесением изменений в код обновите код на локальной машине с репозитория нетологии:
-   `git remote add origin https://github.com/netology-code/bphp-homeworks`
+   - `cd c:/dev/netology/bphp/homeworks`
+   - `git remote add origin https://github.com/netology-code/bphp-homeworks`
 2. После внесения изменений в программный код не забудьте выполнить пункты 7 и 8
